@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "GRXX INTELLIGENCE",
+      "hasCanvas": false,
+      "bodyTextLen": 2787,
+      "bodyTextHash": "10c70ca351c1434f9d8b2575b7a78e6b6840bfeb2e041a87a4b44262ba3cb8e8",
+      "bodyTextPrefix": "Skip to content GRXX INTELLIGENCE Home Features Solutions Dashbo",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "GRXX INTELLIGENCE",
+      "hasCanvas": false,
+      "bodyTextLen": 2627,
+      "bodyTextHash": "58e95dfee625f2b4bfacb9b80457c131272bfb79ce1bf3022511ce54541b2e6d",
+      "bodyTextPrefix": "Skip to content GRXX INTELLIGENCE THE INTELLIGENCE BEHIND YOUR I",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

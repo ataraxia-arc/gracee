@@ -1,0 +1,1 @@
+import{t as e}from"./react-DB-4Zxce.js";import{n as t}from"./preload-helper-MhTpqPvJ.js";import{d as n}from"./createLucideIcon-CcfQz_FV.js";e();var r=n(),i=`/login`;function a({to:e=i}){return(0,r.jsx)(t,{to:e})}export{a as t};
